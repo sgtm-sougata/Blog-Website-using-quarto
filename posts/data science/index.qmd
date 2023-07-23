@@ -1,0 +1,10 @@
+---
+title: "Data Science"
+author: "Sougata maity"
+date: "2023-07-20"
+categories: [news, analysis]
+---
+
+This is the testing post. I want to see if all are properly rendering or not if there any errors or not rendering then later I fixed the code.
+
+Since this post doesn't specify an explicit image, the first image in the post will be used on the listing page of posts.
