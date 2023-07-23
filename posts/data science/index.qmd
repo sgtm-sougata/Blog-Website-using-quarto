@@ -2,6 +2,7 @@
 title: "Data Science"
 author: "Sougata maity"
 date: "2023-07-20"
+image: "project-6.jpg"
 categories: [news, analysis]
 ---
 

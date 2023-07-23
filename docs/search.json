@@ -26,5 +26,12 @@
     "title": "Welcome To My Blog",
     "section": "",
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/data science/index.html",
+    "href": "posts/data science/index.html",
+    "title": "Data Science",
+    "section": "",
+    "text": "This is the testing post. I want to see if all are properly rendering or not if there any errors or not rendering then later I fixed the code.\nSince this post doesn’t specify an explicit image, the first image in the post will be used on the listing page of posts."
   }
 ]
